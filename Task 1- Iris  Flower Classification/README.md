@@ -1,4 +1,4 @@
-IRIS FLOWER CLASSIFICATION 
+IRIS FLOWER CLASSIFICATION :
 
 The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, 
 
